@@ -5,4 +5,4 @@ import { defineConfig } from 'vite';
 export default defineConfig({
   base: '/ra16-homeworks-composition-cards/',
   plugins: [react()],
-})
+});
